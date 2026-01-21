@@ -25,6 +25,7 @@ CORS_ALLOWED_ORIGINS = [
     'https://render-deploy-tutorial-reactjs-code.onrender.com'
 ]
 
+
 STORAGES = {
     "default":{
         "BACKEND" : "django.core.files.storage.FileSystemStorage",
