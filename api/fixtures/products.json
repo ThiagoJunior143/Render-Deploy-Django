@@ -1,0 +1,403 @@
+[
+  {
+    "model": "api.product",
+    "pk": 1,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/391977/1.jpg?9530",
+      "title": "Synix 2.2L Electric Kettle",
+      "price": 6100,
+      "slash_price": 6500,
+      "category": "appliance"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 2,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/4106404/1.jpg?8449",
+      "title": "Binatone 1.5L Blender With Grinder",
+      "price": 18500,
+      "slash_price": 21000,
+      "category": "appliance"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 3,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/9080814/1.jpg?9815",
+      "title": "Rechargeable Standing Fan",
+      "price": 64000,
+      "slash_price": 72000,
+      "category": "appliance"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 4,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/33/1149363/1.jpg?4917",
+      "title": "Microwave Oven 20L",
+      "price": 78000,
+      "slash_price": 90000,
+      "category": "appliance"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 5,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/0913104/1.jpg?1150",
+      "title": "Scanfrost 200L Chest Freezer",
+      "price": 198000,
+      "slash_price": 220000,
+      "category": "appliance"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 6,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/2990004/1.jpg?3300",
+      "title": "Philips Steam Iron",
+      "price": 22500,
+      "slash_price": 26000,
+      "category": "appliance"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 7,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/84/5518204/1.jpg?0488",
+      "title": "Oraimo 20000mAh Power Bank",
+      "price": 14500,
+      "slash_price": 17000,
+      "category": "electronics"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 8,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/81/8178172/1.jpg?6719",
+      "title": "Hisense 32 Inches LED TV",
+      "price": 118000,
+      "slash_price": 130000,
+      "category": "electronics"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 9,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/45/5281904/1.jpg?0708",
+      "title": "Bluetooth Home Theater Speaker",
+      "price": 42000,
+      "slash_price": 48000,
+      "category": "electronics"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 10,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/0140914/1.jpg?2390",
+      "title": "Oraimo Wireless Earbuds",
+      "price": 21500,
+      "slash_price": 25000,
+      "category": "electronics"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 11,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/1243821/1.jpg?4414",
+      "title": "4G LTE MiFi Router",
+      "price": 29500,
+      "slash_price": 34000,
+      "category": "electronics"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 12,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/0913104/1.jpg?1174",
+      "title": "Smart Fitness Wrist Band",
+      "price": 13500,
+      "slash_price": 16000,
+      "category": "electronics"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 13,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/17/9732804/1.jpg?6741",
+      "title": "Xiaomi Redmi 12",
+      "price": 132000,
+      "slash_price": 150000,
+      "category": "phones"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 14,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/6274814/1.jpg?7139",
+      "title": "Tecno Spark 10 Pro",
+      "price": 98000,
+      "slash_price": 110000,
+      "category": "phones"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 15,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/84/1795814/1.jpg?4796",
+      "title": "Samsung Galaxy A04e",
+      "price": 89000,
+      "slash_price": 102000,
+      "category": "phones"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 16,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/3640083/1.jpg?5351",
+      "title": "Infinix Hot 30i",
+      "price": 75000,
+      "slash_price": 88000,
+      "category": "phones"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 17,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/1105814/1.jpg?4876",
+      "title": "iPhone 11 64GB",
+      "price": 315000,
+      "slash_price": 340000,
+      "category": "phones"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 18,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/53/7838814/1.jpg?5153",
+      "title": "Samsung Galaxy A14",
+      "price": 118000,
+      "slash_price": 135000,
+      "category": "phones"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 19,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/7294814/1.jpg?1563",
+      "title": "Men's Leather Palm Slippers",
+      "price": 7800,
+      "slash_price": 9500,
+      "category": "fashion"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 20,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/96/8007023/1.jpg?0485",
+      "title": "Men's Casual Sneakers",
+      "price": 15500,
+      "slash_price": 18500,
+      "category": "fashion"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 21,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/9094652/1.jpg?1869",
+      "title": "Men's Polo T-Shirt",
+      "price": 5500,
+      "slash_price": 7500,
+      "category": "fashion"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 22,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/5294814/1.jpg?3255",
+      "title": "Women's Leather Handbag",
+      "price": 12000,
+      "slash_price": 15000,
+      "category": "fashion"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 23,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/69/319005/1.jpg?6483",
+      "title": "Men's Wrist Watch",
+      "price": 9500,
+      "slash_price": 12000,
+      "category": "fashion"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 24,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/81/0884814/1.jpg?9728",
+      "title": "Unisex Baseball Cap",
+      "price": 3500,
+      "slash_price": 5000,
+      "category": "fashion"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 25,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/2330914/1.jpg?9053",
+      "title": "NIVEA Cocoa Nourishing Lotion 400ml",
+      "price": 5200,
+      "slash_price": 6500,
+      "category": "beauty"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 26,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/2943292/1.jpg?4772",
+      "title": "Electric Hair Clipper Set",
+      "price": 11500,
+      "slash_price": 14500,
+      "category": "beauty"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 27,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/32/362729/1.jpg?1174",
+      "title": "Face Cleansing Brush",
+      "price": 6800,
+      "slash_price": 9000,
+      "category": "beauty"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 28,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/6423613/1.jpg?7352",
+      "title": "Perfume Spray 100ml",
+      "price": 9500,
+      "slash_price": 12000,
+      "category": "beauty"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 29,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/2196612/1.jpg?6332",
+      "title": "Makeup Brush Set",
+      "price": 7200,
+      "slash_price": 9500,
+      "category": "beauty"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 30,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/2196612/1.jpg?6332",
+      "title": "Body Spray Deodorant",
+      "price": 3800,
+      "slash_price": 5200,
+      "category": "beauty"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 31,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/14/5971473/1.jpg?8580",
+      "title": "HP 15 Core i5 Laptop",
+      "price": 465000,
+      "slash_price": 500000,
+      "category": "computing"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 32,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/8397592/1.jpg?8107",
+      "title": "Logitech Wireless Mouse",
+      "price": 6500,
+      "slash_price": 8000,
+      "category": "computing"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 33,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/70/4397352/1.jpg?0692",
+      "title": "Canon PIXMA Inkjet Printer",
+      "price": 89000,
+      "slash_price": 102000,
+      "category": "computing"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 34,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/45/858407/1.jpg?1986",
+      "title": "USB Keyboard and Mouse Combo",
+      "price": 8500,
+      "slash_price": 11000,
+      "category": "computing"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 35,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/7080982/1.jpg?3106",
+      "title": "External Hard Drive 1TB",
+      "price": 42000,
+      "slash_price": 48000,
+      "category": "computing"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 36,
+    "fields": {
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/5194922/1.jpg?8583",
+      "title": "Laptop Backpack",
+      "price": 13500,
+      "slash_price": 16000,
+      "category": "computing"
+    }
+  }
+]
